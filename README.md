@@ -10,3 +10,6 @@
 -- create a ~/web directory
 -- copy index test page from files/index.js to ~/web/index.js
 -- Start the web server using the command pm2 start ~/web/index.js -f
+
+
+-- Also I have tried also to deploy an EC2 i stance using the Cloud Formation script a seen in the template.yml file.
